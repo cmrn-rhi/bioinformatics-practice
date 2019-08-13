@@ -12,3 +12,4 @@ If a Jupyter Colab Notebook fails to load you can view them here:
   - Computing GC Content
   - Counting Point Mutations
   - Mendel's First Law
+  - Translating RNA into Protein
