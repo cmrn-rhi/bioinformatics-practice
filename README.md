@@ -14,3 +14,6 @@ If a Jupyter Colab Notebook fails to load you can view them here:
   - Mendel's First Law
   - Translating RNA into Protein
   - Finding a Motif in DNA
+  - Consensus and Profile
+  - Mortal Fibonacci Rabbits
+  - Calculating Expected Offspring
